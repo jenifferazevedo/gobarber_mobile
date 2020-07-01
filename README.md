@@ -13,11 +13,11 @@
 
 The goal was to develop a mobile application with React-native about barbershop scheduling.
 
+![](https://github.com/jenifferazevedo/gobarber_mobile/blob/master/readme_docs/app_gobarberCreate.png)
+
 ### Functionalities:
 
 - Login;
 - Create Login;
 
-![](https://github.com/jenifferazevedo/gostack-challenge08/blob/master/docs/mobile1.png)
-
-![](https://github.com/jenifferazevedo/gostack-challenge08/blob/master/docs/mobile2.png)
+![](https://github.com/jenifferazevedo/gobarber_mobile/blob/master/readme_docs/app_gobarberErr.png)
